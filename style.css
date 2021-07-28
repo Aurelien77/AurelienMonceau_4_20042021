@@ -7,9 +7,6 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
-a,
-button {
-    transition: all .3s ease-in-out;
     outline: none!important;
 }
 
@@ -774,9 +771,31 @@ h4 {
     background-color: #F3976C;
 }
 
+
+.bgc-atomic-black {
+    background-color: black;
+}
+
+
 .tc-white {
     color: #F3976C!important;
 }
+
+.tc-autre {
+    color: #F3976C!important;
+font-size: 20px;
+}
+
+.tc-autre2 {
+    color: #F3976C!important;
+font-size: 17px;
+}
+
+.tc-autre3 {
+    color: #F3976C!important;
+font-size: 13px;
+}
+
 
 .btn-atomic-tangerine {
     background: #F3976C;
