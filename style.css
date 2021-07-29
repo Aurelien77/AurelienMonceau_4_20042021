@@ -774,12 +774,28 @@ h4 {
 
 .bgc-atomic-black {
     background-color: black;
+  
 }
+.size1 {
+color: black;
+    font-size: 22px;
+}
+.radiusbor {
+ border-radius: 20px;
 
+}
 
 .tc-white {
     color: #F3976C!important;
 }
+
+.ajustbloc {
+
+    padding-left: 17%;
+    padding-right: 17%;
+    
+}
+
 
 .tc-autre {
     color: #F3976C!important;
