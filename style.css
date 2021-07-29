@@ -47,6 +47,7 @@ a:hover {
 
 .bloc-md {
     padding: 50px;
+    
 }
 
 .bloc-sm {
@@ -776,6 +777,12 @@ h4 {
     background-color: black;
   
 }
+
+.bgc-atomic-blackbis {
+
+    color: black;
+    opacity: 80%;
+}
 .size1 {
 color: black;
     font-size: 22px;
@@ -797,14 +804,18 @@ color: black;
 }
 
 
+
+
 .tc-autre {
     color: #F3976C!important;
 font-size: 20px;
+padding-top: 15px;
 }
 
 .tc-autre2 {
     color: #F3976C!important;
 font-size: 17px;
+padding-bottom: 30px;
 }
 
 .tc-autre3 {
