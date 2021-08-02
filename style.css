@@ -804,7 +804,46 @@ color: black;
 }
 
 
+.citation{
+color: black;
+font-size: 25px;
+}
 
+.fontdesc{
+    color: black;
+    font-size: 25px;
+    padding-top: 20px;
+
+}
+
+.destext{
+
+    color: black;  
+    font-size: 14px; 
+}
+
+.textimg {
+    color: black;
+    font-size: 20px;
+   
+
+}
+
+
+.textimg2 {
+    color: black;
+    font-size: 18px;
+   
+
+}
+
+
+.fontdesc2{
+    color: black;
+    font-size: 17px;
+padding-top: 20px;
+
+}
 
 .tc-autre {
     color: #F3976C!important;
