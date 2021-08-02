@@ -857,6 +857,11 @@ font-size: 25px;
 padding-top: 20px;
 
 }
+.top {
+ padding-top: 10px;
+ padding-bottom: 10px;
+
+}
 
 .tc-autre {
     color: #F3976C!important;
