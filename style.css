@@ -924,7 +924,7 @@ font-size: 13px;
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.jpg");
 }
 
 @media (max-width: 1024px) {
@@ -975,7 +975,7 @@ font-size: 13px;
         position: relative;
     }
     .bloc {
-      
+       
     }
     .bloc-group,
     .bloc-group .bloc {
@@ -985,7 +985,7 @@ font-size: 13px;
     .bloc-fill-screen .fill-bloc-top-edge,
     .bloc-fill-screen .fill-bloc-bottom-edge {
         padding: 0 20px;
- 
+       
     }
 }
 
